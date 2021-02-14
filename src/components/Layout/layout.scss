@@ -1,0 +1,13 @@
+.layout {
+    max-width: 1000px;
+    margin: auto;
+    min-height: 800px;
+    //background: #fff;
+    font-family: 'Raleway', sans-serif;
+    .content-area {
+        position: relative;
+        padding: 1rem 2rem;
+        background: rgba(255,255,255,0.7);
+        height: 100%;
+    }
+}
